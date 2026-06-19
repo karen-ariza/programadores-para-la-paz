@@ -1,0 +1,7 @@
+Las APIs son herramientas fundamentales en el desarrollo de aplicaciones modernas, ya que permiten la comunicación 
+entre diferentes sistemas de forma organizada. A través de ellas, es posible enviar y recibir información de manera sencilla y 
+estructurada. En el contexto de una comunidad, las APIs pueden ayudar a reportar problemas, compartir alertas o enviar solicitudes 
+de ayuda en tiempo real. Esto mejora la comunicación entre los usuarios y las instituciones responsables. 
+Además, facilitan la automatización de procesos y reducen errores en el manejo de la información. Gracias a las APIs, 
+las aplicaciones pueden trabajar de forma conectada y eficiente. Su uso permite crear soluciones más rápidas y útiles para las personas. 
+Por eso, son una parte esencial en el desarrollo de software actual.
