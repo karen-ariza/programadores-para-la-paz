@@ -1,0 +1,7 @@
+La seguridad digital es importante porque protege la información de los usuarios 
+y garantiza el buen funcionamiento de las plataformas comunitarias. 
+Evita el acceso no autorizado a datos sensibles. También ayuda a proteger contraseñas 
+y credenciales. Las buenas prácticas de seguridad fortalecen la confianza de la comunidad. 
+Permiten prevenir ataques o pérdidas de información. El uso de Linux y la terminal permite 
+administrar sistemas de forma eficiente. Conocer el sistema ayuda a detectar problemas rápidamente. 
+Por eso, la seguridad digital es fundamental en cualquier plataforma tecnológica.

@@ -1,0 +1,9 @@
+En este sistema operativo Windows no se pueden ejecutar directamente algunos comandos de Linux como uname -a, 
+porque son propios de sistemas Linux y no están disponibles en PowerShell de forma nativa.
+En su lugar, se utilizó el comando systeminfo, el cual muestra información del sistema operativo, 
+como versión de Windows, arquitectura del equipo y otros datos del sistema.
+
+El comando whoami sí funciona en Windows y muestra el nombre del usuario actual que está utilizando la terminal.
+
+Estos comandos son útiles para conocer el entorno del sistema, lo cual es importante al administrar servidores o 
+realizar tareas de configuración y mantenimiento.
