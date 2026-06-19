@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Seguridad",
+  "descripcion": "Se reporta una luminaria dañada en la entrada del barrio."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Movilidad",
+  "descripcion": "Un semáforo de la avenida principal presenta fallas."
+}
