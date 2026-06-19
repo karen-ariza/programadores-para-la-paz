@@ -1,0 +1,6 @@
+Las plataformas tecnológicas que reciben información de los ciudadanos son muy importantes porque 
+permiten organizar reportes de forma estructurada. El uso de JSON facilita que los datos sean enviados 
+de manera clara y ordenada. Gracias a esto, los sistemas pueden procesar la información rápidamente. 
+Las APIs permiten la comunicación entre usuarios y servidores de forma eficiente. En aplicaciones comunitarias, 
+esto ayuda a reportar problemas como fallas de servicios públicos o emergencias. Además, mejora la respuesta de las instituciones. 
+El uso de Express y req.body permite recibir datos enviados por los usuarios. Esto hace que las aplicaciones sean más útiles y organizadas para la comunidad.

@@ -1,0 +1,5 @@
+{
+  "tipo": "Vía pública",
+  "descripcion": "Hay un hueco grande en la calle
+  principal que dificulta el paso de vehículos."
+}
