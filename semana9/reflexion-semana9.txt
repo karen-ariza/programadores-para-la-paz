@@ -1,0 +1,6 @@
+Las plataformas tecnológicas utilizadas por las comunidades deben funcionar de manera estable para garantizar la disponibilidad 
+de la información y los servicios. Un servidor seguro ayuda a proteger los datos y evita interrupciones en el funcionamiento de la plataforma. 
+Asimismo, permite responder correctamente a las solicitudes de los usuarios. El monitoreo y los registros del sistema facilitan la detección de 
+errores y mejoran la confiabilidad del servicio. La estabilidad también fortalece la confianza de la comunidad en las herramientas tecnológicas. 
+Mantener servidores organizados y seguros es fundamental para asegurar una participación continua y responsable. Por ello, la administración adecuada 
+de los servidores es una parte esencial en cualquier plataforma digital comunitaria.
